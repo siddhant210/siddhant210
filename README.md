@@ -81,13 +81,6 @@ Currently Building:
 
 </p>
 
----
-
-# 📈 3D Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
-
----
 
 ## 📈 Contribution Graph
 
@@ -106,6 +99,7 @@ Currently Building:
 
 </p>
 
+---
 
 # 🎧 Currently Playing
 
