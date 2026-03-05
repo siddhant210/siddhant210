@@ -89,24 +89,32 @@ Currently Building:
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=algolia&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant210&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://img.shields.io/badge/Hackathon_Wins-6-ff69b4?style=for-the-badge&logo=hackaday"/>
+<img src="https://img.shields.io/badge/AI_Projects-Built-blue?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Full_Stack-Developer-orange?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github"/>
 
 </p>
-
 ---
 
 # 📊 Coding Activity
@@ -121,11 +129,17 @@ Currently Building:
 
 # 🎧 Currently Playing
 
+
 <p align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true"/>
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+<img src="https://img.shields.io/badge/Now_Playing-Believer_by_Imagine_Dragons-green?style=for-the-badge&logo=spotify"/>
+
+</a>
 
 </p>
+
+> "Pain made me a believer."
 
 ---
 
