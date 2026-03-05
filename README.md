@@ -59,11 +59,11 @@ Currently Building:
 
 ---
 
-# 🧑‍💻 Coding Mode
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -93,7 +93,7 @@ Currently Building:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=algolia&row=1&column=7"/>
 
 </p>
 
@@ -105,17 +105,6 @@ Currently Building:
 
 <!--END_SECTION:activity-->
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 💡 Quote That Drives Me
 
