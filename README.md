@@ -12,20 +12,15 @@
 
 ## 🧠 About Me
 
-<p align="center">
+I’m Siddhant Jadhav, a Computer Engineering student and a passionate Full Stack Developer who enjoys building impactful AI-powered applications. I have won 11 hackathons where I developed innovative solutions under pressure and collaborated with diverse teams. My interests lie in creating intelligent systems, scalable web applications, and products that solve real-world problems. I enjoy working with modern technologies like React, Next.js, Node.js, and AI tools to turn ideas into functional products. I’m particularly passionate about startups, innovation, and building technology that creates meaningful impact.
 
-🚀 Computer Engineering Student  
-🏆 **11x Hackathon Winner**  
-🤖 Building **AI + Full Stack Applications**  
-📈 Passionate about **Startups & Innovation**
 
-</p>
 
 ---
 
-### ⚡ Currently Building
+## 🚀 Currently Building
 
-- 🏥 **Aarogya Mitra - Health Coach AI**
+I’m currently working on **Aarogyamitra – Health Coach AI**, an AI-powered health companion designed to assist users in managing chronic diseases and making informed health decisions. The platform leverages intelligent insights to guide users toward healthier lifestyles while connecting them with relevant healthcare resources. Alongside this, I continue exploring AI-driven web applications and scalable full-stack systems.
 
 ---
 
