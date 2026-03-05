@@ -99,23 +99,42 @@ Currently Building:
 
 ---
 
-# 🔥 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
-# 💡 Quote That Drives Me
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1350&q=80" width="800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
-<h3 align="center">
+---
 
-"Success is built by those who code when others sleep."
+# 📊 Coding Activity
 
-</h3>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎧 Currently Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true"/>
+
+</p>
+
+---
+
+# 💭 Developer Mindset
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
