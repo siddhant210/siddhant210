@@ -10,16 +10,38 @@
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-💻 Computer Engineering Student  
-🏆 **11x Hackathon Winner**  
-🚀 Building AI + Full Stack Applications  
+<p align="center">
+
+🚀 Computer Engineering Student  
+🏆 **6x Hackathon Winner**  
+🤖 Building **AI + Full Stack Applications**  
 📈 Passionate about **Startups & Innovation**
 
-Currently Building:
+</p>
 
-• 🏥 Health Coach AI  
+---
+
+### ⚡ Currently Building
+
+- 🏥 **Health Coach AI**
+- 🤖 **AI Chatbot**
+- 💰 **AI Financial Advisor**
+- ⚡ **Next.js AI Applications**
+
+---
+
+### 🎯 Focus Areas
+
+<p>
+
+<img src="https://img.shields.io/badge/AI-Projects-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-NextJS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Startup-Building-green?style=for-the-badge"/>
+
+</p>
 
 ---
 
