@@ -15,7 +15,7 @@
 <p align="center">
 
 🚀 Computer Engineering Student  
-🏆 **6x Hackathon Winner**  
+🏆 **11x Hackathon Winner**  
 🤖 Building **AI + Full Stack Applications**  
 📈 Passionate about **Startups & Innovation**
 
@@ -38,7 +38,7 @@
 
 <img src="https://img.shields.io/badge/AI-Projects-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-NextJS-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReactJS-NextJS-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Startup-Building-green?style=for-the-badge"/>
 
 </p>
