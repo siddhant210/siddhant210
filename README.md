@@ -25,10 +25,7 @@
 
 ### ⚡ Currently Building
 
-- 🏥 **Health Coach AI**
-- 🤖 **AI Chatbot**
-- 💰 **AI Financial Advisor**
-- ⚡ **Next.js AI Applications**
+- 🏥 **Aarogya Mitra - Health Coach AI**
 
 ---
 
