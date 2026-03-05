@@ -89,16 +89,6 @@ Currently Building:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant210&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
@@ -109,23 +99,13 @@ Currently Building:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hackathon_Wins-6-ff69b4?style=for-the-badge&logo=hackaday"/>
+<img src="https://img.shields.io/badge/Hackathon_Wins-11-ff69b4?style=for-the-badge&logo=hackaday"/>
 <img src="https://img.shields.io/badge/AI_Projects-Built-blue?style=for-the-badge&logo=openai"/>
 <img src="https://img.shields.io/badge/Full_Stack-Developer-orange?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github"/>
 
 </p>
----
 
-# 📊 Coding Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🎧 Currently Playing
 
