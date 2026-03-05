@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Siddhant Jadhav</h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI Builder | 6x Hackathon Winner</h3>
+<h3 align="center">🚀 Full Stack Developer | Software Engineer | 11x Hackathon Winner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Projects+Builder;Hackathon+Winner;React+Next.js+Node.js;Building+Impactful+Products;Future+Startup+Founder" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Hackathon+Winner;React+Next.js+Node.js;Future+Startup+Founder"/>
+
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 🧠 About Me
 
 💻 Computer Engineering Student  
-🏆 **6x Hackathon Winner**  
-🚀 Passionate about **AI + Full Stack Development**  
-📈 Interested in **startups & building real products**
+🏆 **11x Hackathon Winner**  
+🚀 Building AI + Full Stack Applications  
+📈 Passionate about **Startups & Innovation**
 
-### Currently Building
- 
-🏥 AarogyaMitra- Health Coach AI  
+Currently Building:
+
+• 🏥 Health Coach AI  
 
 ---
 
@@ -37,17 +39,27 @@
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Hacker Terminal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,python,java,mongodb,postgres,tailwind,git,aws,docker,firebase,html,css"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💻 Coding Mode
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,python,java,mongodb,postgres,tailwind,git,aws,docker,firebase,html,css,selenium,git,github"/>
+
+</p>
+
+---
+
+# 🧑‍💻 Coding Mode
 
 <p align="center">
 
@@ -61,7 +73,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant210&theme=tokyonight&hide_border=true"/>
 
@@ -71,7 +83,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 3D Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
 
@@ -81,25 +93,17 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Latest GitHub Activity
 
-### 🤖 AI Chatbot
-AI assistant built using modern web technologies.
+<!--START_SECTION:activity-->
 
-### 🎧 SoundScript
-Converts audio ideas into structured scripts.
-
-### 💰 AI Financial Advisor
-AI system that suggests financial planning.
-
-### 🏥 Health Coach AI
-AI companion helping with health decisions.
+<!--END_SECTION:activity-->
 
 ---
 
@@ -113,17 +117,16 @@ AI companion helping with health decisions.
 
 ---
 
-# 👀 Profile Views
+# 💡 Quote That Drives Me
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=siddhant210&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1350&q=80" width="800"/>
 
 </p>
 
----
+<h3 align="center">
 
-# 💡 Quote I Live By
+"Success is built by those who code when others sleep."
 
-> “When you're backed up against a wall, break the goddamn thing down.”  
-> — Harvey Specter
+</h3>
