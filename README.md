@@ -8,6 +8,17 @@
 
 ---
 
+<!-- MATRIX HACKER INTRO -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&width=600&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+</p>
+
+---
 
 # 🚀 About Me
 
@@ -31,6 +42,10 @@ I love working with modern technologies like **React, Next.js, Node.js, and AI t
 
 AI-powered health companion helping users **manage chronic diseases and make informed health decisions.**
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</p>
+
 Features:
 
 • AI-powered health guidance  
@@ -38,6 +53,7 @@ Features:
 • Healthcare discovery  
 • Accessible health support  
 
+---
 
 # 🎯 Focus Areas
 
@@ -50,7 +66,7 @@ Features:
 
 </p>
 
-
+---
 
 # 🧠 Skill Progress
 
@@ -64,6 +80,7 @@ Features:
 
 </p>
 
+---
 
 # 🛠 Tech Stack
 
@@ -73,7 +90,7 @@ Features:
 
 </p>
 
-
+---
 
 # ⚡ Developer Metrics
 
@@ -97,9 +114,7 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
+---
 
 # 🐍 Contribution Snake
 
@@ -109,6 +124,7 @@ Features:
 
 </p>
 
+---
 
 # 📊 GitHub Analytics
 
@@ -126,7 +142,17 @@ Features:
 
 </p>
 
+---
 
+# 📊 Developer Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhant210&theme=tokyonight"/>
+
+</p>
+
+---
 
 # 🌐 Connect With Me
 
@@ -142,6 +168,10 @@ Features:
 
 </p>
 
+---
+
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+
 </p>
