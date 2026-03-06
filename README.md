@@ -8,9 +8,6 @@
 
 ---
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
 
 # 🚀 About Me
 
@@ -41,9 +38,6 @@ Features:
 • Healthcare discovery  
 • Accessible health support  
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
 
 # 🎯 Focus Areas
 
@@ -56,9 +50,7 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
+
 
 # 🧠 Skill Progress
 
@@ -72,9 +64,6 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
 
 # 🛠 Tech Stack
 
@@ -84,9 +73,7 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
+
 
 # ⚡ Developer Metrics
 
@@ -122,9 +109,6 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
 
 # 📊 GitHub Analytics
 
@@ -142,9 +126,7 @@ Features:
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-</p>
+
 
 # 🌐 Connect With Me
 
