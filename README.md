@@ -11,7 +11,7 @@
 <!-- MATRIX TERMINAL -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF41&center=true&width=500&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=8&duration=2000&pause=500&color=00FF41&center=true&width=500&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
 </p>
 
 <p align="center">
