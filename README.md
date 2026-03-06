@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I’m **Siddhant Jadhav**, a Computer Engineering student and passionate **Full Stack Developer** who enjoys building impactful **AI-powered applications**.
 
@@ -36,7 +36,7 @@ I love working with modern technologies like **React, Next.js, Node.js, and AI t
 
 ---
 
-# 🧠 Currently Building
+#  Currently Building
 
 ### 🩺 Aarogyamitra – Health Coach AI
 
@@ -55,7 +55,7 @@ Features:
 
 ---
 
-# 🎯 Focus Areas
+#  Focus Areas
 
 <p align="center">
 
@@ -68,7 +68,7 @@ Features:
 
 ---
 
-# 🧠 Skill Progress
+#  Skill Progress
 
 <p align="center">
 
@@ -82,7 +82,7 @@ Features:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -91,28 +91,6 @@ Features:
 </p>
 
 ---
-
-# ⚡ Developer Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhant210&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhant210&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhant210&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhant210&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddhant210&theme=tokyonight&utcOffset=5"/>
-
-</p>
 
 ---
 
