@@ -5,7 +5,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Siddhant%20Jadhav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%2011x%20Hackathon%20Winner&descAlignY=55&descAlign=50"/>
 
 </p>
+#  Skill Progress
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/AI%20Integration-70%25-blue?style=for-the-badge&logo=openai"/>
+
+</p>
 ---
 
 <!-- MATRIX TERMINAL -->
@@ -68,17 +78,7 @@ Features:
 
 ---
 
-#  Skill Progress
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/AI%20Integration-70%25-blue?style=for-the-badge&logo=openai"/>
-
-</p>
 
 ---
 
