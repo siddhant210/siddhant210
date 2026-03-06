@@ -1,4 +1,4 @@
-<h1  align="center"> **I'm Siddhant Jadhav**</h1>
+<h1 align="center"><b>SIDDHANT JADHAV</b></h1>
 
 <h3 align="center"> Full Stack Developer | Software Engineer | 11x Hackathon Winner</h3>
 
