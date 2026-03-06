@@ -11,11 +11,11 @@
 <!-- MATRIX TERMINAL -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=8&duration=2000&pause=500&color=00FF41&center=true&width=500&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF41&center=true&width=500&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
 </p>
 
 <p align="center">
-<img width="420" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+<img width="150" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
 </p>
 
 ---
