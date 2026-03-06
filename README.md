@@ -6,26 +6,8 @@
 
 </p>
 
-
-<h3 align="center">
-
-Full Stack Developer | Software Engineer | 11x Hackathon Winner
-
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Hackathon+Winner;React+Next.js+Node.js;Future+Startup+Founder"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=siddhant210&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🚀 About Me
 
@@ -59,6 +41,7 @@ Features:
 • Accessible health support  
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🎯 Focus Areas
 
@@ -72,20 +55,22 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🧠 Skill Progress
 
 <p align="center">
 
-<img src="https://progress-bar.dev/90/?title=React"/>
-<img src="https://progress-bar.dev/85/?title=Next.js"/>
-<img src="https://progress-bar.dev/80/?title=Node.js"/>
-<img src="https://progress-bar.dev/75/?title=Java"/>
-<img src="https://progress-bar.dev/70/?title=AI%20Integration"/>
+<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/AI%20Integration-70%25-blue?style=for-the-badge&logo=openai"/>
 
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🛠 Tech Stack
 
@@ -96,6 +81,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # ⚡ Developer Metrics
 
@@ -120,6 +106,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🐍 Contribution Snake
 
@@ -130,6 +117,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 📊 GitHub Analytics
 
@@ -148,12 +136,14 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🏆 Achievements
 
@@ -167,16 +157,18 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 💻 Hacker Terminal
 
@@ -187,6 +179,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🌐 Connect With Me
 
@@ -207,6 +200,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🎧 Currently Playing
 
@@ -227,6 +221,7 @@ Features:
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🧠 Developer Mindset
 
