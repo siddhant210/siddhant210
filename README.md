@@ -5,7 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Siddhant%20Jadhav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%2011x%20Hackathon%20Winner&descAlignY=55&descAlign=50"/>
 
 </p>
-#  Skill Progress
+
+<p>
 
 <p align="center">
 
@@ -16,7 +17,6 @@
 <img src="https://img.shields.io/badge/AI%20Integration-70%25-blue?style=for-the-badge&logo=openai"/>
 
 </p>
----
 
 <!-- MATRIX TERMINAL -->
 
