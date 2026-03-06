@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Jadhav</h1>
+<h1 align="center">Hello I'm Siddhant Jadhav</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Software Engineer | 11x Hackathon Winner</h3>
 
@@ -51,17 +51,6 @@ I’m currently working on **Aarogyamitra – Health Coach AI**, an AI-powered h
 
 </p>
 
----
-
-# 💻 Hacker Terminal
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
 
 # ⚡ Tech Stack
 
@@ -113,6 +102,17 @@ I’m currently working on **Aarogyamitra – Health Coach AI**, an AI-powered h
 
 </p>
 
+---
+
+# 💻 Hacker Terminal
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
 ---
 
 # 🎧 Currently Playing
