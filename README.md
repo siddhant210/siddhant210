@@ -7,7 +7,10 @@
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 🚀 About Me
 
@@ -25,8 +28,6 @@ I love working with modern technologies like **React, Next.js, Node.js, and AI t
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-9e7a3a39-9f9a-4d32-9d36-4d4c1c1ff717.gif"/>
-
 # 🧠 Currently Building
 
 ### 🩺 Aarogyamitra – Health Coach AI
@@ -40,8 +41,9 @@ Features:
 • Healthcare discovery  
 • Accessible health support  
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 🎯 Focus Areas
 
@@ -54,8 +56,9 @@ Features:
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 🧠 Skill Progress
 
@@ -69,8 +72,9 @@ Features:
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 🛠 Tech Stack
 
@@ -80,8 +84,9 @@ Features:
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # ⚡ Developer Metrics
 
@@ -105,19 +110,21 @@ Features:
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/siddhant210/siddhant210/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
 
 # 📊 GitHub Analytics
 
@@ -135,98 +142,24 @@ Features:
 
 </p>
 
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night"/>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 🏆 Achievements
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Hackathon_Wins-11-ff69b4?style=for-the-badge&logo=hackaday"/>
-<img src="https://img.shields.io/badge/AI_Projects-Built-blue?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Full_Stack-Developer-orange?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 </p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhant210&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 💻 Hacker Terminal
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/siddhant2104/">
-
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="https://www.instagram.com/whyy.siddd/">
-
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
-
-</a>
-
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 🎧 Currently Playing
-
-<p align="center">
-
-<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
-
-<img src="https://img.shields.io/badge/Now_Playing-Believer_by_Imagine_Dragons-green?style=for-the-badge&logo=spotify"/>
-
 </a>
 
 </p>
 
 <p align="center">
-
-<b>"Pain made me a believer."</b>
-
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=header"/>
-
-# 🧠 Developer Mindset
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
