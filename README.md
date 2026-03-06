@@ -77,11 +77,6 @@ Features:
 </p>
 
 ---
-
-
-
----
-
 #  Tech Stack
 
 <p align="center">
@@ -92,7 +87,6 @@ Features:
 
 ---
 
----
 
 
 #  Contribution Snake
