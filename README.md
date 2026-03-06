@@ -8,14 +8,14 @@
 
 ---
 
-<!-- MATRIX HACKER INTRO -->
+<!-- MATRIX TERMINAL -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&width=600&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF41&center=true&width=500&lines=Initializing+Developer+Environment...;Loading+AI+Modules...;Deploying+Full+Stack+Systems...;Hackathon+Champion+Mode+Activated..."/>
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+<img width="420" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
 </p>
 
 ---
@@ -116,13 +116,15 @@ Features:
 
 ---
 
-# 🐍 Contribution Snake
+
+#  Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/siddhant210/siddhant210/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
 
 ---
 
@@ -165,6 +167,15 @@ Features:
 <a href="https://www.instagram.com/whyy.siddd/">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
+
+</p>
+
+
+#  Developer Mindset
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
