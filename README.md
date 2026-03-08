@@ -1,4 +1,3 @@
-<!-- GLASSMORPHISM HEADER -->
 
 <p align="center">
 
