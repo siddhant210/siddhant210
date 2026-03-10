@@ -31,7 +31,7 @@
 
 #  About Me
 
-I’m **Siddhan Jadhav**, a Computer Engineering student and passionate **Full Stack Developer** who enjoys building impactful **AI-powered applications**.
+I’m **Siddhant Jadhav**, a Computer Engineering student and passionate **Full Stack Developer** who enjoys building impactful **AI-powered applications**.
 
 I have won **11 hackathons**, where I built innovative solutions under pressure and collaborated with diverse teams.
 
