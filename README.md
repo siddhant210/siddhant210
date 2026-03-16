@@ -97,19 +97,6 @@ Features:
 </p>
 
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=siddhant210&theme=tokyonight&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727"/>
-
-</p>
-
-
-
-
 
 ---
 
