@@ -99,13 +99,22 @@ Features:
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=siddhant210&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=siddhant210&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhant210&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 
 
 
