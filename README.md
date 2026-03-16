@@ -99,15 +99,14 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddhant210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=30"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=siddhant210&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=siddhant210&theme=tokyonight&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727"/>
 
 </p>
+
 
 
 ---
